@@ -1,16 +1,12 @@
 {
-    "properties": {
-        "documentTypeId": 1,
+    "properties": {       
         "documentNumber": 0,
         "countryLayout": "BE",
         "pages": 4
     },
     "company": {
         "id": 5
-    },
-    "externalId": "2a6a821e-7d60-44f1-88e6-aefb1143f12e",
-    "orderNumber": "1584998150",
-    "dossierNumber": "DOS-1584998150",
+    },    
     "issuedDate": "2020-03-19T11:28:06.789895+00:00",
     "issuedPlace": "uj",
     "consignor": {
@@ -30,73 +26,7 @@
     "primaryCarrier": {
         "id": 486966
     },
-    "goods": [
-        {
-            "code": "123456",
-            "description": "WASTE, DESTILLATION TARS (LIQUID)",
-            "quantity": 1,
-            "grossWeight": 2360,
-            "grossWeightUnit": "kg",
-            "dangerousGoodsInfo": [
-                {
-                    "code": "UN 1790",
-                    "labelOrClassificationCode": "II",
-                    "packagingDangerLevelCode": "8 (6.1)",
-                    "quantity": 0,
-                    "quantityUnit": "kg",
-                    "technicalName": "WASTE, FLUOR",
-                    "transportCategory": "",
-                    "tunnelRestrictionCodes": "E"
-                }
-            ]
-        },
-        {
-            "code": "1234567",
-            "description": "WASTE, VARIOUS CHEMICALS",
-            "quantity": 1,
-            "grossWeight": 360,
-            "grossWeightUnit": "kg",
-            "dangerousGoodsInfo": [
-                {
-                    "code": "UN 1738",
-                    "labelOrClassificationCode": "II",
-                    "packagingDangerLevelCode": "8 (6.1)",
-                    "quantity": 0,
-                    "quantityUnit": "kg",
-                    "technicalName": "WASTE, BENZYLCHLORIDE",
-                    "transportCategory": "",
-                    "tunnelRestrictionCodes": "D/E"
-                }
-            ]
-        },
-        {
-            "code": "1234578",
-            "description": "WASTE, CHEMICALS",
-            "quantity": 1,
-            "grossWeight": 2360,
-            "grossWeightUnit": "kg",
-            "dangerousGoodsInfo": [
-                {
-                    "code": "UN 1790",
-                    "labelOrClassificationCode": "II",
-                    "packagingDangerLevelCode": "8 (6.1)",
-                    "quantity": 0,
-                    "quantityUnit": "kg",
-                    "technicalName": "WASTE, FLUOR",
-                    "transportCategory": "",
-                    "tunnelRestrictionCodes": "E"
-                }
-            ]
-        },
-        {
-            "code": "123456789",
-            "description": "WASTE, CHEMICALS",
-            "quantity": 1,
-            "grossWeight": 860,
-            "grossWeightUnit": "kg",
-            "dangerousGoodsInfo": null
-        }
-    ],
+    "goods": [],
     "attachments": [],
     "transportExecutions": [
         {
